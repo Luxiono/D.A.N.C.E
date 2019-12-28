@@ -15,6 +15,8 @@ I have not yet decided if the game will be entirely made in C# or if it will be 
 
 => How to place and create simple items, like buttons
 
+---
+
 I want to know which one you think would be best for me. I'll put an issue up soon to let you vote.
 
 However, I may choose C# just because I'll only need to learn the language, not anything related to an engine.
